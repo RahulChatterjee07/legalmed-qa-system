@@ -1,0 +1,6 @@
+Patient Name: Jane Smith
+Date of Birth: 03/15/1985
+
+Rehabilitation Summary:
+The claimant completed their rehab program on February 1, 2023.
+Therapist noted significant improvement in mobility and function.

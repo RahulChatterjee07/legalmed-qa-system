@@ -1,0 +1,17 @@
+# LLM prompt templates for legal-medical QnA
+prompts:
+  default_qa: |
+    You are a legal-medical assistant. Based on the following document content, answer the user's question precisely.
+    If the answer is not found, respond with "Not available".
+
+    ### Question:
+    {question}
+
+    ### Document Content:
+    {context}
+
+    ### Output Format:
+    {{
+      "answer": "...",
+      "source": "page number or section"
+    }}

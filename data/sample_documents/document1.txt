@@ -1,0 +1,6 @@
+Patient Name: John Doe
+Date of Birth: 01/02/1980
+
+Assessment Details:
+The patient was last assessed on March 12, 2024, following a motor vehicle accident.
+The physician concluded that the injury was minor and no further evaluation is needed.
